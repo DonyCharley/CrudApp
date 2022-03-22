@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618539816772",
+    "project_id": "crudlp",
+    "storage_bucket": "crudlp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618539816772:android:56d8fa43eb161c0b18a911",
+        "android_client_info": {
+          "package_name": "com.example.crud_lp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618539816772-cj7udpkkksckv0neetntnptfagshic5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_lp",
+            "certificate_hash": "001165722e77b20aab9c288a72ba0dcb5db380bd"
+          }
+        },
+        {
+          "client_id": "618539816772-cai95r3kjneqb9tklvrlnnlpvms5bvdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAru-R-dCT44KWRiZzWmQUTJpowJf_NGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618539816772-cai95r3kjneqb9tklvrlnnlpvms5bvdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
